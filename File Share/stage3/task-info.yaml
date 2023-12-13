@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/fileshare/Application.kt
+    visible: true
+  - name: build.gradle
+    visible: true
+  - name: src/resources/application.properties
+    visible: true
+  - name: src/fileshare/web/InfoResponse.kt
+    visible: true
+  - name: src/fileshare/web/UploadRestController.kt
+    visible: true
+  - name: test/FileData.java
+    visible: false
+  - name: test/FileClient.java
+    visible: false
+  - name: test/FileShareTest.java
+    visible: false
+  - name: test/files/file2.jpg
+    visible: false
+  - name: test/files/file3.txt
+    visible: false
+  - name: test/files/file 1.jpg
+    visible: false
+  - name: src/fileshare/repository/FileInfo.kt
+    visible: true
+  - name: src/fileshare/repository/FileInfoRepository.kt
+    visible: true
+  - name: src/fileshare/service/FileContainer.kt
+    visible: true
+  - name: src/fileshare/service/FileService.kt
+    visible: true
